@@ -1,0 +1,9 @@
+This is a script to pull the meeting dates from the Melbourne Eastern Suburbs Hackers
+website and export them to an ical file for import to Google Calendar or similar
+software.  It utilizes Beautiful Soup for pulling the data and its own ical class
+for making the ical file.
+
+The website could change and break this script.  As of 4 April 2016 it worked.
+
+Written by Tim Nibert.
+Free to use, modify, or whatever, just give appropriate credit when due.
